@@ -41,23 +41,24 @@ Date: February 24, 2026
 To: Sundar Pichai, Chief Executive Officer, Google
 To: Sergey Brin, Founder and Board Member, Google
 To: Larry Page, Founder and Board Member, Google
+To: Vijaya Kaza, General Manager for App & Ecosystem Trust, Google
 CC: Regulatory authorities, policymakers, and the Android developer community
 Re: Mandatory Developer Registration for Android App Distribution
 ```
 
 * * *
 
-We, the undersigned organizations representing civil society, nonprofit institutions, and technology companies, write to express our strong opposition to Google's announced policy requiring all Android app developers to register centrally with Google in order to distribute applications outside of the Google Play Store, set to take effect worldwide in the coming months.
+We, the undersigned organizations representing civil society, nonprofit institutions, and technology companies, write to express our strong opposition to Google's announced policy requiring all Android app developers to register centrally with Google themselves in order to distribute applications outside of the Google Play Store, set to take effect worldwide in the coming months.
 
-While we do recognize the importance of platform security and user safety, the Android platform already includes multiple security mechanisms that do not require central registration. Forcibly injecting an alien security model that runs counter to Android's historic open nature threatens innovation, competition, privacy, and user freedom. We implore Google to withdraw this policy and work with the open-source and security communities on less restrictive alternatives.
+While we do recognize the importance of platform security and user safety, the Android platform already includes multiple security mechanisms that do not require central registration. Forcibly injecting an alien security model that runs counter to Android's historic open nature threatens innovation, competition, privacy, and user freedom. We urge Google to withdraw this policy and work with the open-source and security communities on less restrictive alternatives.
 
 ## Our Concerns
 
 **1\. Gatekeeping Beyond Google's Own Store**
 
-Android has historically been characterized as an open platform where users and developers can operate independently of Google's services. The proposed developer registration policy fundamentally alters that relationship by requiring developers who wish to distribute apps through alternative channels — their own websites, third-party app stores, enterprise distribution systems, or direct transfers — to first seek permission from Google through a mandatory verification process, which involves the agreement to Google's terms and conditions, the payment of a fee, and the uploading of government-issued identification.
+Android has historically been characterized as an open platform where users and developers can operate independently of Google's services. The proposed developer registration policy fundamentally alters that relationship by requiring developers who wish to distribute apps through alternative channels — their own websites, third-party app stores, enterprise distribution systems, or direct transfers — to first seek permission from Google through a mandatory verification process, which involves the agreement to Google's terms and conditions, the payment of a fee, and the surrendering of government-issued identification.
 
-This extends Google's gatekeeping authority beyond its own marketplace into distribution channels where it has no legitimate operational role. Developers who choose not to use Google's services should not be forced to register with, and potentially be judged by, Google. This also gives Google newfound powers to completely disable any app it wants to, for any reason, for the entire Android ecosystem.
+This extends Google's gatekeeping authority beyond its own marketplace into distribution channels where it has no legitimate operational role. Developers who choose not to use Google's services should not be forced to register with, and submit to the judgement of, Google. Centralizing the registration of all applications worldwide also gives Google newfound powers to completely disable any app it wants to, for any reason, for the entire Android ecosystem.
 
 **2\. Barriers to Entry and Innovation**
 
@@ -127,16 +128,16 @@ The Android platform already includes multiple security mechanisms that do not r
 
 No evidence has been presented that these safeguards are insufficient to continue to protect Android users as they have for the past seventeen years of Android's existence. If Google's concern is genuinely about security rather than control, it should invest in improving these existing mechanisms rather than creating new bottlenecks and centralizing control.
 
-## Our Request
+## Our Petition
 
-We call on Google to:
+We call upon Google to:
 
 1.  **Immediately rescind** the mandatory developer registration requirement for third-party distribution
 2.  **Engage in transparent dialogue** with civil society, developers, and regulators about Android security improvements that respect openness and competition
 3.  **Commit to platform neutrality** by ensuring that Android remains a genuinely open platform where Google's role as platform provider does not conflict with its commercial interests
 
-The strength of the Android ecosystem has always been its openness, and Google has always been a faithful steward of that trust. Policies that centralize control, create unnecessary barriers, and extend gatekeeping authority beyond a single marketplace threaten the innovation, diversity, and freedom that have made Android successful.
+Over the years, Android has evolved into a critical piece of technological infrastructure that is depended on by hundreds of governments, millions of businesses, and billions of citizens around the world. Unilaterally consolidating and centralizing the power to approve software into the hands of a single unaccountable corporation is antithetical to the principles of free speech, an affront to free software, an insurmountable barrier to competition, and a threat to digital sovereignty everywhere.
 
-We urge Google to reconsider this policy and to work collaboratively with the broader community to advance security objectives without sacrificing the open principles upon which Android was built.
+We implore Google to reverse course, end the developer verification program, and to begin working collaboratively with the broader community to advance security objectives without sacrificing the open principles upon which Android was built. The strength of the Android ecosystem has historically been its openness, and Google must work towards restoring its role as a faithful steward of that trust.
 
 * * *

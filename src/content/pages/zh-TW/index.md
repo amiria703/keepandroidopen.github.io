@@ -12,7 +12,7 @@ site_disclaimer: "**免責聲明:** 本網站乃一個由社群驅動的非商�
 site_privacy: "**隱私:** 本網站並不使用 Cookie，也不作使用者追蹤或記錄。"
 site_copyright: "**版權:** 無。此著作乃標記為"
 
-lockdown_banner: "倒數 Android 即將淪為畫地為牢、桎梏滿盈的封閉平臺"
+lockdown_banner: "Android 淪為畫地為牢、桎梏滿盈的封閉平臺的剩餘時刻"
 open_letter_header: "公開信"
 open_letter_description: "倡導 Android 該當一個自由、開放平臺之公開信。"
 --- 

@@ -21,7 +21,7 @@ function regionFlag(code?: string): string {
 }
 
 // Logos stored as SVG for these domains; all others are PNG
-const svgLogos = new Set(["auroraoss.com", "guardianproject.info", "osmfoundation.org"]);
+const svgLogos = new Set(["appfair.org", "auroraoss.com", "guardianproject.info", "jmp.chat", "osmfoundation.org", "molly.im"]);
 function logoPath(url: string): string {
   const ext = svgLogos.has(url) ? "svg" : "png";
   return `/img/logos/${url}.${ext}`;
@@ -38,7 +38,7 @@ function logoPath(url: string): string {
           <li>
             <img class="sig-logo" src={logoPath(sig.url)} alt={`${sig.organization} logo`} loading="lazy" />
             <div class="sig-details">
-              <span class="sig-name">{sig.organization}</span>
+              <span class="sig-name">{sig.organization} <span class="sig-flag">{regionFlag(sig.region)}</span></span>
               <a target="_blank" href={`https://${sig.url}`}>{sig.url}</a>
             </div>
           </li>
@@ -59,7 +59,7 @@ function logoPath(url: string): string {
     height: 3px;
     background: linear-gradient(90deg, transparent, #333, transparent);
     margin: 0 auto;
-    max-width: 36rem;
+    max-width: 60rem;
   }
 
   .signatories h2 {
@@ -87,27 +87,28 @@ function logoPath(url: string): string {
     list-style: none;
     padding: 0;
     margin: 0 auto 2rem;
-    max-width: 36rem;
+    max-width: 60rem;
+    columns: 1;
+  }
+
+  @media (min-width: 900px) {
+    .signatories ol {
+      columns: 2;
+      column-gap: 2rem;
+    }
   }
 
   .signatories li {
     display: flex;
-    align-items: flex-start;
-    padding: 0.75rem 0;
+    align-items: center;
+    padding: 0.6rem 0;
     border-bottom: 1px solid rgba(128, 128, 128, 0.15);
+    break-inside: avoid;
   }
 
   .signatories li:last-child {
     border-bottom: none;
     padding-bottom: 1.5rem;
-  }
-
-  .sig-flag {
-    flex-shrink: 0;
-    width: 2.5rem;
-    padding-top: 0.1rem;
-    font-size: 1.3rem;
-    line-height: 1;
   }
 
   .sig-logo {
@@ -117,19 +118,25 @@ function logoPath(url: string): string {
     object-fit: contain;
     margin-inline-end: 0.75rem;
     border-radius: 4px;
-    align-self: center;
   }
 
   .sig-details {
     display: flex;
     flex-direction: column;
     gap: 0.1rem;
+    min-width: 0;
   }
 
   .sig-name {
     font-weight: 800;
     font-size: 1.05rem;
     letter-spacing: 0.01em;
+  }
+
+  .sig-flag {
+    margin-inline-start: 0.4em;
+    font-size: 0.85em;
+    vertical-align: middle;
   }
 
   .sig-details a {

@@ -30,6 +30,10 @@
   url: "crypt.ee"
   poc: "John Ozbay <hello@johnozbay.com>"
   region: EE
+- organization: "Digitale Gesellschaft"
+  url: "digitale-gesellschaft.ch"
+  poc: "Philippe Gervais <docta.gervais@proton.me>"
+  region: CH
 - organization: "The Digital Rights Foundation"
   url: "digitalrightsfoundation.pk"
   poc: "Nighat Dad <nighat@digitalrightsfoundation.pk>"
@@ -58,14 +62,29 @@
   url: "f-droid.org"
   poc: "board@f-droid.org"
   region: NL
+- organization: "IzzyOnDroid"
+  url: "izzyondroid.org"
+  poc: "Andreas Itzchak Rehberg <izzy@izzyondroid.org>"
 - organization: "The Free Software Foundation Europe (FSFE)"
   url: "fsfe.org"
   poc: "Lucas Lasota <lucas.lasota@fsfe.org>"
   region: DE
+- organization: "The Free Software Foundation (FSF)"
+  url: "fsf.org"
+  poc: "Greg Farough via RT <campaigns@fsf.org>"
+  region: US
+- organization: "Ghostery"
+  url: "ghostery.com"
+  poc: "Adam from Ghostery <adam@ghostery.com>"
+  region: US
 - organization: "The Guardian Project"
   url: "guardianproject.info"
   poc: "Nathan Freitas <nathan@guardianproject.info>"
   region: US
+- organization: "JMP.chat"
+  url: "jmp.chat"
+  poc: "Stephen Paul Weber <info@jmp.chat>"
+  region: CA
 - organization: "Obtainium"
   url: "obtainium.imranr.dev"
   poc: "Imran <contact@imranr.dev>"
@@ -77,9 +96,9 @@
   url: "osservatorionessuno.org"
   poc: "Giulio B <giulio@osservatorionessuno.org>"
   region: IT
-- organization: "IzzyOnDroid"
-  url: "izzyondroid.org"
-  poc: "Andreas Itzchak Rehberg <izzy@izzyondroid.org>"
+- organization: "Molly"
+  url: "molly.im"
+  poc: "Oscar Mira <valldrac@molly.im>"
 - organization: "Nextcloud"
   url: "nextcloud.com"
   poc: "Jos Poortvliet <jos.poortvliet@nextcloud.com>"
@@ -88,6 +107,10 @@
   url: "openrightsgroup.org"
   poc: "Jim Killock <jim@openrightsgroup.org>"
   region: GB
+- organization: "Proton AG"
+  url: "proton.me"
+  poc: "Samuele Kaplun <samuele.kaplun@proton.ch>"
+  region: CH
 - organization: "Rossman Group"
   url: "rossmanngroup.com"
   poc: "Louis Rossmann <youtube@rossmanngroup.com>"
