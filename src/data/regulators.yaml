@@ -1,5 +1,6 @@
 heading:
   ar: "المستهلكون: تواصلوا مع الجهات التنظيمية الوطنية"
+  fa: "مصرف‌کنندگان: با قانون‌گذاران خود، تماس بگیرید"
   en: "Consumers: Contact national regulators"
   ru: "Пользователи: обращайтесь к национальным регуляторам"
   de: "Verbraucher: Kontaktieren Sie die nationalen Aufsichtsbehörden"
@@ -21,6 +22,7 @@ heading:
 
 intro:
   ar: "يشعر المنظمون في جميع أنحاء العالم بقلق بالغ إزاء الاحتكارات وتمركز السلطة في قطاع التكنولوجيا، ويرغبون في الاستماع مباشرةً إلى الأفراد المتضررين والمهتمين. عند التواصل مع المنظمين مباشرةً، ينبغي التحلي _باللباقة و الوضوح_ في شرح الضرر الذي تعتقد أن هذه السياسات ستسببه، سواءً للمستهلكين أو للمنافسة."
+  fa: "نهادهای ناظر در سراسر جهان واقعاً نسبت به انحصارها و تمرکز قدرت در بخش فناوری نگران‌اند و مایل‌اند مستقیماً از افرادی که تحت تأثیر قرار گرفته‌اند و دغدغه دارند، بشنوند. هنگام تماس مستقیم با نهادهای ناظر، باید **مودب** باشید و به‌طور **مشخص** توضیح دهید که به باور شما این سیاست‌ها چه آسیب‌هایی—هم به مصرف‌کنندگان و هم به رقابت—وارد خواهند کرد."
   en: "Regulators worldwide are genuinely concerned about monopolies and the centralization of power in the tech sector, and want to hear directly from individuals who are affected and concerned. When contacting regulators directly, you should be _polite_ and _specific_ about the harm you believe these policies will cause, both to consumers and to competition."
   ru: "Регуляторы по всему миру всерьёз обеспокоены монополиями и концентрацией власти в технологическом секторе и хотят напрямую слышать мнение людей, которых это затрагивает и волнует. Обращаясь к регуляторам напрямую, важно быть вежливым и конкретным в описании того вреда, который, по вашему мнению, эти политики могут нанести — как потребителям, так и конкуренции."
   de: "Regulierungsbehörden auf der ganzen Welt sind ernsthaft besorgt über Monopole und die zunehmende Machtkonzentration im Technologiesektor – und sie möchten die Stimmen der Betroffenen hören.\nWenn Sie Kontakt aufnehmen, seien Sie höflich und präzise, und beschreiben Sie genau, welchen Schaden diese Politik sowohl Verbrauchern als auch dem Wettbewerb zufügen könnte."
@@ -42,6 +44,7 @@ intro:
 
 follow_up:
   ar: "تكون الشكاوى ذات تأثير بالغ، خاصةً عندما يُقدّمها مواطن من ذلك البلد أو المنطقة، وعندما تكون لغة البريد الإلكتروني إحدى اللغات الرسمية للهيئة الحاكمة في المنطقة. اطلبوا _إشعارًا كتابياً_ باستلام الشكوى، و يرجى إعادة توجيه أي ردود تتلقونها إلى [victory@keepandroidopen.org](mailto:victory@keepandroidopen.org) حتى نتمكن من تسليط الضوء عليها و الإشارة إليها."
+  fa: "شکایات زمانی بیشترین اثرگذاری را دارند که از سوی یکی از شهروندان همان کشور یا منطقه تنظیم شده باشند و متن ایمیل نیز به یکی از زبان‌های رسمی نهاد حاکمیتی آن منطقه نوشته شده باشد. درخواست یک **تأییدیهٔ کتبی** برای دریافت شکایت خود مطرح کنید، و در نظر داشته باشید هر پاسخی را که دریافت می‌کنید به نشانی [victory@keepandroidopen.org](mailto:victory@keepandroidopen.org) ارسال کنید تا بتوانیم آن‌ها را برجسته کرده و به آن‌ها ارجاع دهیم."
   en: "Complaints are especially impactful when they are authored by a citizen of that country or region, and when the language of the email is written in one of the official languages of the region's governing body. Request a _written acknowledgement_ of the complaint, and consider forwarding any responses you receive to [victory@keepandroidopen.org](mailto:victory@keepandroidopen.org) so that we might highlight and reference them."
   ru: "Жалобы особенно действенны, когда их пишет гражданин соответствующей страны или региона, и когда письмо составлено на одном из официальных языков органа управления этого региона. Попросите _письменное подтверждение_ получения жалобы и, по возможности, пересылайте любые полученные ответы на [victory@keepandroidopen.org](mailto:victory@keepandroidopen.org), чтобы мы могли их выделить и ссылаться на них."
   de: "Beschwerden sind besonders wirksam, wenn sie von Bürgern des jeweiligen Landes oder der Region eingereicht werden und in einer der Amtssprachen der zuständigen Behörde verfasst sind.\nBitten Sie um eine **schriftliche Empfangsbestätigung** Ihrer Beschwerde und erwägen Sie, jede erhaltene Antwort an [victory@keepandroidopen.org](mailto:victory@keepandroidopen.org) weiterzuleiten, damit wir sie veröffentlichen und dokumentieren können."
@@ -64,6 +67,7 @@ follow_up:
 countries:
   - id: european-union
     name:
+      fa: "اتّحادیّهٔ اروپا"
       ar: "الاتحاد الأوروبي"
       en: "European Union"
       ru: "Европейский союз"
@@ -194,6 +198,7 @@ countries:
           zh-TW: "~~[**逾期**] 傳送有關歐盟《數位公平法》的意見反映：[歐盟《數位公平法》：您又怎麼說](https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/14622-Digital-Fairness-Act_en)~~"
   - id: united-kingdom
     name:
+      fa: "بریتانیای کبیر"    
       ar: "المملكة المتحدة"
       en: "United Kingdom"
       ru: "Великобритания"
@@ -250,6 +255,7 @@ countries:
           zh-TW: "向[英國競爭與市場管理局](https://contact-the-cma.service.gov.uk/wizard/classify)提出報告"
   - id: united-states
     name:
+      fa: "ایالات متّحدهٔ آمریکا"
       ar: "الولايات المتحدة الأمريكية"
       en: "United States"
       ru: "Соединенные Штаты"
@@ -343,6 +349,7 @@ countries:
           zh-TW: "~~電子郵件 (**失效**)：[antitrust.complaints@usdoj.gov](mailto:antitrust.complaints@usdoj.gov?cc=usdoj@keepandroidopen.org)~~"
   - id: brazil
     name:
+      fa: "برزیل"
       ar: "البرازيل"
       en: "Brazil"
       ru: "Бразилия"
@@ -419,6 +426,7 @@ countries:
 
   - id: singapore
     name:
+      fa: "سنگاپور"
       ar: "سنغافورة"
       en: "Singapore"
       ru: "Сингапур"
@@ -495,6 +503,7 @@ countries:
           zh-TW: "_註：新加坡已被指定為率先強制實施開發者註冊的[首階段 4 個國家](https://www.theregister.com/2025/08/26/android_developer_verification_sideloading/)之一_"
   - id: thailand
     name:
+      fa: "تایلند"
       ar: "تايلاند"
       en: "Thailand"
       ru: "Таиланд"
@@ -608,6 +617,7 @@ countries:
 
   - id: indonesia
     name:
+      fa: "اندونزی"
       ar: "إندونيسيا"
       en: "Indonesia"
       ru: "Индонезия"
@@ -684,6 +694,7 @@ countries:
   - id: "switzerland"
     name:
       ar: "سويسرا"
+      fa: "سوییس"
       en: "Switzerland"
       ru: "Швейцария"
       de: "Switzerland"
@@ -721,6 +732,7 @@ countries:
   - id: "australia"
     name:
       ar: "أستراليا"
+      fa: "استرالیا"
       en: "Australia"
       ru: "Австралия"
       de: "Australien"
@@ -816,6 +828,7 @@ countries:
 
   - id: "japan"
     name:
+      fa: "ژاپن"
       ar: "اليابان"
       en: "Japan"
       ru: "Япония"
@@ -874,6 +887,7 @@ countries:
 
   - id: "south-korea"
     name:
+      fa: "کرهٔ جنوبی"
       ar: "كوريا الجنوبية"
       en: "South Korea"
       ru: "Южная Корея"
@@ -931,6 +945,7 @@ countries:
 
   - id: "india"
     name:
+      fa: "هند"
       ar: "الهند"
       en: "India"
       ru: "Индия"
@@ -989,6 +1004,7 @@ countries:
 
   - id: "canada"
     name:
+      fa: "کانادا"
       ar: "كندا"
       en: "Canada"
       ru: "Канада"
@@ -1066,6 +1082,7 @@ countries:
 
   - id: "taiwan"
     name:
+      fa: "تایوان"
       ar: "تايوان"
       en: "Taiwan"
       ru: "Тайвань"
@@ -1124,6 +1141,7 @@ countries:
 
   - id: "turkey"
     name:
+      fa: "ترکیه"
       ar: "تركيا"
       en: "Turkey"
       ru: "Турция"
@@ -1166,6 +1184,7 @@ countries:
 
   - id: "argentina"
     name:
+      fa: "آرژانتین"
       ar: "الأرجنتين"
       en: "Argentina"
       ru: "Аргентина"
@@ -1224,6 +1243,7 @@ countries:
 
   - id: "mexico"
     name:
+      fa: "مکزیک"
       ar: "المكسيك"
       en: "Mexico"
       ru: "Мексика"
@@ -1282,6 +1302,7 @@ countries:
 
   - id: "philippines"
     name:
+      fa: "فلیپین"
       ar: "الفلبين"
       en: "Philippines"
       ru: "Филиппины"
@@ -1324,6 +1345,7 @@ countries:
 
   - id: "poland"
     name:
+      fa: "لهستان"
       ar: "بولندا"
       en: "Poland"
       ru: "Польша"
@@ -1354,6 +1376,7 @@ countries:
 
   - id: "czech-republic"
     name:
+      fa: "جمهوری چک"
       ar: "الجمهورية التشيكية"
       en: "Czech Republic"
       ru: "Чешская Республика"
@@ -1399,6 +1422,7 @@ countries:
 
   - id: "ukraine"
     name:
+      fa: "اوکراین"
       ar: "أوكرانيا"
       en: "Ukraine"
       ru: "Украина"
@@ -1463,6 +1487,7 @@ countries:
 
   - id: "slovakia"
     name:
+      fa: "اسلواکی"
       ar: "سلوفاكيا"
       en: "Slovakia"
       ru: "Словакия"
@@ -1484,6 +1509,7 @@ countries:
           zh-TW: "聯絡[斯洛伐克共和國反壟斷局](https://www.antimon.gov.sk/en/)"
   - id: "chinese-mainland"
     name:
+      fa: "جمهوری خلق چین"
       ar: "جمهورية الصين"
       en: "Chinese Mainland"
       zh-CN: "中国大陆"
